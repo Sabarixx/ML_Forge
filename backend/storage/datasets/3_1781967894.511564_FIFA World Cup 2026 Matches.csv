@@ -1,0 +1,105 @@
+Match_ID,Date,Venue,City,Stadium,Stage,Team_1,Team_2,Team_1_FIFA_Rank,Team_2_FIFA_Rank,Team_1_Possession,Team_2_Possession,Team_1_Shots,Team_2_Shots,Team_1_Shots_On_Target,Team_2_Shots_On_Target,Team_1_Corners,Team_2_Corners,Team_1_Fouls,Team_2_Fouls,Team_1_Yellow_Cards,Team_2_Yellow_Cards,Team_1_Red_Cards,Team_2_Red_Cards,Team_1_xG,Team_2_xG,Attendance,Referee,Weather,Team_1_Goals,Team_2_Goals,Winner
+M001,2026-06-11,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Qatar,Italy,41,8,35,65,13,10,6,6,4,4,9,8,5,5,0,0,1.24,1.14,67651,Referee_3,Sunny,3,2,Qatar
+M002,2026-06-12,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Portugal,USA,6,14,42,58,10,13,3,4,9,4,18,12,3,4,0,0,1.57,0.1,50463,Referee_28,Rainy,0,0,Draw
+M003,2026-06-13,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Morocco,Belgium,18,10,41,59,7,12,1,2,2,2,17,8,2,2,0,0,2.43,1.14,70108,Referee_35,Sunny,2,0,Morocco
+M004,2026-06-14,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Ecuador,Portugal,25,6,52,48,9,11,1,4,10,6,11,7,0,5,0,0,0.98,1.1,45229,Referee_15,Sunny,0,3,Portugal
+M005,2026-06-15,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Ecuador,Morocco,25,18,49,51,11,6,5,0,3,6,16,11,5,2,0,0,1.55,0.1,44679,Referee_39,Cloudy,0,0,Draw
+M006,2026-06-16,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,Costa Rica,Tunisia,35,47,42,58,14,11,5,3,8,7,13,12,5,2,0,0,0.37,0.8,55010,Referee_3,Rainy,0,2,Tunisia
+M007,2026-06-17,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Poland,Morocco,26,18,37,63,13,3,5,0,10,6,11,20,3,5,0,0,0.93,1.73,56162,Referee_36,Rainy,2,2,Draw
+M008,2026-06-18,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,Venezuela,Paraguay,48,38,48,52,8,9,3,5,6,4,9,20,0,0,0,0,1.06,1.17,50484,Referee_28,Sunny,0,0,Draw
+M009,2026-06-19,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Ecuador,Saudi Arabia,25,39,49,51,15,16,5,7,9,1,8,13,5,2,0,0,1.65,0.85,69735,Referee_1,Rainy,2,2,Draw
+M010,2026-06-20,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Algeria,Uruguay,33,12,51,49,11,17,0,8,5,9,11,9,2,1,0,0,1.46,1.09,74757,Referee_1,Rainy,2,0,Algeria
+M011,2026-06-21,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Egypt,Brazil,32,2,38,62,11,12,6,4,5,4,6,12,4,0,0,0,0.83,0.95,44535,Referee_35,Cloudy,2,1,Egypt
+M012,2026-06-22,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,Netherlands,Jamaica,9,43,50,50,9,13,3,6,5,9,18,11,4,5,0,0,0.91,1.07,66148,Referee_24,Partly Cloudy,1,0,Netherlands
+M013,2026-06-23,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Cameroon,Sweden,34,29,38,62,13,12,5,4,4,2,15,5,4,4,0,0,0.41,1.01,44652,Referee_4,Cloudy,0,0,Draw
+M014,2026-06-24,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Spain,France,5,3,62,38,11,12,7,5,2,9,12,13,5,3,0,0,1.58,1.25,77423,Referee_37,Partly Cloudy,0,1,France
+M015,2026-06-25,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,Japan,Ukraine,16,31,60,40,12,20,4,8,4,2,8,18,2,3,0,0,1.38,0.48,43550,Referee_7,Sunny,2,1,Japan
+M016,2026-06-26,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Poland,Tunisia,26,47,45,55,15,7,8,0,4,4,11,19,1,3,0,0,1.81,2.83,44940,Referee_29,Sunny,1,2,Tunisia
+M017,2026-06-27,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,England,New Zealand,4,42,52,48,12,8,2,3,2,4,10,18,3,3,0,0,0.66,1.63,43842,Referee_11,Partly Cloudy,0,3,New Zealand
+M018,2026-06-28,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Argentina,Ecuador,1,25,43,57,8,9,4,1,5,7,20,9,1,2,0,0,1.56,2.21,75533,Referee_4,Rainy,0,2,Ecuador
+M019,2026-06-29,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,England,Paraguay,4,38,50,50,13,14,3,3,1,9,7,10,0,4,0,0,1.77,1.51,66461,Referee_8,Cloudy,2,2,Draw
+M020,2026-06-30,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Paraguay,Saudi Arabia,38,39,36,64,9,11,4,3,7,10,15,13,1,5,0,0,2.71,1.63,65938,Referee_9,Rainy,2,2,Draw
+M021,2026-07-01,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Norway,Australia,30,21,64,36,8,14,4,4,1,8,8,7,4,1,0,0,2.07,1.59,62872,Referee_5,Cloudy,3,3,Draw
+M022,2026-07-02,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Colombia,Nigeria,24,19,40,60,11,7,3,1,9,5,5,14,5,0,0,0,1.35,1.54,47564,Referee_7,Cloudy,2,2,Draw
+M023,2026-07-03,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Morocco,Nigeria,18,19,54,46,12,16,4,10,6,4,13,20,2,0,0,0,1.84,0.7,58132,Referee_3,Sunny,1,1,Draw
+M024,2026-07-04,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Denmark,Netherlands,22,9,55,45,11,13,5,5,3,8,18,5,0,0,0,0,0.81,0.24,49768,Referee_35,Sunny,0,1,Netherlands
+M025,2026-07-05,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,Colombia,Paraguay,24,38,52,48,12,6,5,2,7,3,6,14,2,0,0,0,0.78,1.41,56353,Referee_7,Rainy,1,0,Colombia
+M026,2026-07-06,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,Peru,Serbia,36,27,54,46,13,13,6,6,4,3,10,18,0,1,0,0,0.44,0.64,66982,Referee_16,Rainy,1,1,Draw
+M027,2026-07-07,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,Croatia,South Africa,11,45,38,62,14,26,6,12,1,8,12,11,3,2,0,0,2.07,1.76,54915,Referee_15,Sunny,2,2,Draw
+M028,2026-07-08,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Jamaica,Mexico,43,13,47,53,8,10,2,4,5,2,13,16,5,4,0,0,3.02,0.1,75141,Referee_22,Sunny,4,0,Jamaica
+M029,2026-07-09,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Italy,South Korea,8,17,40,60,10,15,4,4,1,2,18,16,5,2,0,0,0.9,1.78,47578,Referee_25,Cloudy,0,2,South Korea
+M030,2026-07-10,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,South Korea,France,17,3,57,43,12,8,8,4,1,9,11,16,3,0,0,0,0.1,1.43,80839,Referee_21,Sunny,0,2,France
+M031,2026-07-11,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Tunisia,Senegal,47,20,51,49,8,10,3,5,7,6,17,14,4,1,0,0,0.56,1.07,64847,Referee_12,Rainy,0,1,Senegal
+M032,2026-07-12,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Poland,Peru,26,36,61,39,19,12,5,6,5,5,11,18,4,4,0,0,2.89,2.02,68977,Referee_14,Partly Cloudy,2,2,Draw
+M033,2026-07-13,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Venezuela,Croatia,48,11,56,44,17,8,7,4,5,9,15,7,1,5,0,0,0.75,1.26,49656,Referee_2,Sunny,0,0,Draw
+M034,2026-07-14,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Japan,Ukraine,16,31,54,46,10,6,6,0,8,7,11,17,3,3,0,0,1.09,1.39,40363,Referee_7,Partly Cloudy,2,0,Japan
+M035,2026-07-15,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Canada,Uruguay,15,12,60,40,16,11,4,5,1,9,12,8,3,1,0,0,1.54,0.88,76629,Referee_39,Rainy,2,1,Canada
+M036,2026-07-16,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,Sweden,Iran,29,40,61,39,12,13,7,3,9,8,10,20,3,2,0,0,2.89,0.1,58173,Referee_34,Partly Cloudy,3,1,Sweden
+M037,2026-07-17,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Qatar,Japan,41,16,43,57,13,8,4,2,2,5,12,13,2,2,0,0,0.99,1.89,49884,Referee_15,Partly Cloudy,1,1,Draw
+M038,2026-07-18,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,South Africa,Belgium,45,10,57,43,15,12,7,5,2,7,18,15,4,3,0,0,0.82,0.91,67534,Referee_25,Sunny,1,1,Draw
+M039,2026-07-19,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Chile,Ecuador,37,25,50,50,11,11,6,3,6,5,17,18,4,5,0,0,1.78,1.16,54453,Referee_32,Cloudy,2,2,Draw
+M040,2026-07-20,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Morocco,Turkey,18,28,50,50,15,14,7,5,7,6,17,10,3,1,0,0,1.88,1.08,65822,Referee_38,Sunny,2,1,Morocco
+M041,2026-07-21,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,Portugal,New Zealand,6,42,48,52,12,13,3,8,8,3,6,13,3,2,0,0,0.7,0.45,64846,Referee_18,Partly Cloudy,2,1,Portugal
+M042,2026-07-22,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,South Korea,Portugal,17,6,50,50,14,13,5,3,9,1,16,12,5,0,0,0,1.45,0.83,42033,Referee_16,Cloudy,2,1,South Korea
+M043,2026-07-23,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Brazil,Iran,2,40,39,61,8,9,3,2,3,8,8,11,3,5,0,0,0.82,1.47,79707,Referee_39,Sunny,1,1,Draw
+M044,2026-07-24,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Croatia,Senegal,11,20,38,62,10,11,1,2,5,10,17,17,5,1,0,0,0.9,1.15,81106,Referee_16,Sunny,1,2,Senegal
+M045,2026-07-25,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,South Africa,Senegal,45,20,62,38,15,10,5,2,10,1,16,18,5,2,0,0,1.39,1.1,40829,Referee_27,Partly Cloudy,2,0,South Africa
+M046,2026-07-26,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Germany,Turkey,7,28,65,35,14,17,5,7,8,3,18,10,5,4,0,0,1.88,1.02,75269,Referee_31,Partly Cloudy,2,1,Germany
+M047,2026-07-27,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Turkey,Tunisia,28,47,53,47,12,7,4,3,6,4,7,13,3,1,0,0,2.42,1.97,83790,Referee_25,Rainy,4,1,Turkey
+M048,2026-07-28,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Brazil,Egypt,2,32,62,38,15,11,9,3,3,8,11,16,2,2,0,0,0.81,0.88,58105,Referee_36,Sunny,0,0,Draw
+M049,2026-07-29,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Cameroon,Mexico,34,13,37,63,8,11,3,7,7,8,12,20,5,5,0,0,2.07,0.9,46098,Referee_19,Cloudy,1,1,Draw
+M050,2026-07-30,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Poland,South Africa,26,45,42,58,6,18,4,6,10,6,20,16,3,5,0,0,0.2,2.25,69736,Referee_18,Rainy,0,3,South Africa
+M051,2026-07-31,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,South Korea,Canada,17,15,38,62,5,8,2,3,6,2,10,11,1,5,0,0,1.08,1.74,74382,Referee_39,Rainy,0,2,Canada
+M052,2026-08-01,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Germany,Mexico,7,13,44,56,12,13,5,3,6,3,14,5,5,4,0,0,0.33,2.19,76264,Referee_19,Cloudy,1,2,Mexico
+M053,2026-08-02,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Qatar,Egypt,41,32,38,62,18,11,8,4,10,5,20,20,3,2,0,0,2.84,2.53,71308,Referee_8,Sunny,3,3,Draw
+M054,2026-08-03,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Poland,Egypt,26,32,37,63,14,16,4,7,3,3,14,7,1,0,0,0,2.14,0.1,79067,Referee_40,Cloudy,1,0,Poland
+M055,2026-08-04,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Cameroon,Ecuador,34,25,49,51,10,13,6,5,5,10,18,14,4,4,0,0,2.54,0.33,46503,Referee_14,Cloudy,1,0,Cameroon
+M056,2026-08-05,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,South Korea,Jamaica,17,43,37,63,13,10,2,3,4,3,7,10,0,3,0,0,0.49,1.77,59087,Referee_3,Cloudy,1,1,Draw
+M057,2026-08-06,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Nigeria,Ghana,19,46,44,56,9,6,3,3,2,4,13,11,3,0,0,0,0.71,1.65,57408,Referee_10,Sunny,0,1,Ghana
+M058,2026-08-07,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,England,Croatia,4,11,60,40,11,6,3,0,10,10,14,19,0,3,0,0,2.78,1.32,57841,Referee_33,Partly Cloudy,2,1,England
+M059,2026-08-08,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Sweden,Portugal,29,6,54,46,11,10,5,5,7,6,13,5,0,1,0,0,1.03,0.9,77696,Referee_38,Sunny,1,0,Sweden
+M060,2026-08-09,"MetLife Stadium, New York",New York,MetLife Stadium,Group Stage,Panama,Morocco,44,18,53,47,5,16,4,6,3,8,19,13,1,4,0,0,1.8,1.52,45979,Referee_31,Rainy,4,2,Panama
+M061,2026-08-10,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Group Stage,Serbia,Denmark,27,22,45,55,11,7,1,3,3,6,18,20,2,5,0,0,0.87,0.3,76051,Referee_3,Partly Cloudy,0,0,Draw
+M062,2026-08-11,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Portugal,Australia,6,21,43,57,18,14,7,7,2,7,5,19,3,0,0,0,1.45,0.7,72669,Referee_29,Sunny,3,1,Portugal
+M063,2026-08-12,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,USA,Morocco,14,18,52,48,7,10,1,1,5,8,20,8,0,5,0,0,2.05,2.64,50379,Referee_20,Sunny,1,3,Morocco
+M064,2026-08-13,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Peru,Serbia,36,27,37,63,9,9,2,2,2,8,8,9,3,5,0,0,1.43,0.72,67229,Referee_31,Partly Cloudy,2,1,Peru
+M065,2026-08-14,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Group Stage,Japan,Norway,16,30,52,48,11,7,3,3,7,4,9,7,2,3,0,0,1.75,0.62,57509,Referee_1,Rainy,2,1,Japan
+M066,2026-08-15,"Lumen Field, Seattle",Seattle,Lumen Field,Group Stage,Tunisia,Senegal,47,20,61,39,5,13,1,6,3,8,20,16,2,4,0,0,0.87,0.1,61088,Referee_13,Cloudy,0,0,Draw
+M067,2026-08-16,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,Chile,Ecuador,37,25,42,58,13,7,6,0,1,6,20,17,3,5,0,0,1.35,0.45,49968,Referee_32,Sunny,1,0,Chile
+M068,2026-08-17,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Netherlands,Algeria,9,33,65,35,8,9,4,2,2,8,8,19,0,5,0,0,1.98,0.51,50116,Referee_5,Partly Cloudy,2,2,Draw
+M069,2026-08-18,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Group Stage,South Korea,Denmark,17,22,54,46,2,7,1,2,2,6,17,15,5,5,0,0,1.66,0.88,75456,Referee_3,Sunny,2,1,South Korea
+M070,2026-08-19,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Group Stage,Japan,Qatar,16,41,56,44,16,12,6,4,4,2,18,8,5,5,0,0,1.06,1.0,59625,Referee_2,Sunny,1,1,Draw
+M071,2026-08-20,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Group Stage,Australia,England,21,4,44,56,13,19,6,7,6,7,9,12,4,3,0,0,2.24,1.01,51140,Referee_12,Sunny,1,0,Australia
+M072,2026-08-21,"BC Place, Vancouver",Vancouver,BC Place,Group Stage,Iran,Ecuador,40,25,54,46,4,9,1,6,8,10,9,12,3,5,0,0,1.63,1.15,40615,Referee_30,Rainy,2,0,Iran
+M073,2026-08-22,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Round of 32,Panama,Costa Rica,44,35,40,60,12,14,2,7,8,6,14,18,5,2,0,0,1.64,1.01,65211,Referee_31,Sunny,2,3,Costa Rica
+M074,2026-08-23,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Round of 32,Japan,Ecuador,16,25,53,47,12,11,4,3,10,5,14,5,5,3,0,0,1.98,0.7,84944,Referee_4,Partly Cloudy,2,0,Japan
+M075,2026-08-24,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Round of 32,Nigeria,Canada,19,15,54,46,13,12,6,4,4,4,13,9,5,0,0,0,1.21,0.61,60246,Referee_29,Sunny,2,1,Nigeria
+M076,2026-08-25,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Round of 32,Paraguay,Colombia,38,24,58,42,15,7,7,4,2,5,15,18,1,1,0,0,1.69,2.61,63976,Referee_34,Rainy,1,2,Colombia
+M077,2026-08-26,"Lumen Field, Seattle",Seattle,Lumen Field,Round of 32,Croatia,South Korea,11,17,64,36,4,16,2,6,5,6,8,19,0,1,0,0,1.6,0.51,84323,Referee_26,Rainy,4,1,Croatia
+M078,2026-08-27,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Round of 32,Portugal,Poland,6,26,35,65,12,13,5,5,9,2,19,16,5,5,0,0,0.85,1.63,81847,Referee_24,Sunny,2,3,Poland
+M079,2026-08-28,"MetLife Stadium, New York",New York,MetLife Stadium,Round of 32,Panama,Canada,44,15,50,50,18,8,5,3,10,9,15,12,5,0,0,0,1.44,2.07,59804,Referee_27,Sunny,0,3,Canada
+M080,2026-08-29,"MetLife Stadium, New York",New York,MetLife Stadium,Round of 32,Netherlands,France,9,3,65,35,11,9,2,1,5,8,8,8,1,4,0,0,1.98,1.35,83940,Referee_35,Partly Cloudy,1,0,Netherlands
+M081,2026-08-30,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Round of 32,Paraguay,Venezuela,38,48,58,42,10,17,3,4,7,2,20,18,2,0,0,0,1.23,1.11,69143,Referee_16,Rainy,0,1,Venezuela
+M082,2026-08-31,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Round of 32,Germany,Panama,7,44,46,54,11,13,7,6,1,7,13,11,0,3,0,0,1.21,0.53,81909,Referee_39,Sunny,3,1,Germany
+M083,2026-09-01,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Round of 32,England,Denmark,4,22,42,58,12,10,5,3,10,4,7,11,4,1,0,0,1.0,0.92,49670,Referee_39,Sunny,1,0,England
+M084,2026-09-02,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Round of 32,Morocco,Belgium,18,10,39,61,9,11,3,6,3,2,5,9,0,2,0,0,0.1,2.06,61218,Referee_2,Cloudy,1,0,Morocco
+M085,2026-09-03,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Round of 32,South Korea,England,17,4,39,61,10,9,1,2,9,2,7,20,3,2,0,0,0.62,2.53,73019,Referee_15,Sunny,1,4,England
+M086,2026-09-04,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Round of 32,Tunisia,Jamaica,47,43,51,49,14,6,4,3,8,1,6,20,3,3,0,0,0.54,1.8,69069,Referee_5,Sunny,0,2,Jamaica
+M087,2026-09-05,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Round of 32,Australia,Saudi Arabia,21,39,39,61,14,12,5,6,3,5,15,17,4,4,0,0,0.64,1.73,68193,Referee_7,Sunny,2,1,Australia
+M088,2026-09-06,"BC Place, Vancouver",Vancouver,BC Place,Round of 32,New Zealand,Peru,42,36,58,42,13,5,6,1,7,8,12,18,2,3,0,0,1.03,2.03,60483,Referee_28,Rainy,0,1,Peru
+M089,2026-09-07,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Round of 16,Jamaica,South Korea,43,17,46,54,5,13,0,7,8,2,7,7,0,3,0,0,0.1,2.49,48527,Referee_36,Sunny,0,2,South Korea
+M090,2026-09-08,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Round of 16,Paraguay,Peru,38,36,52,48,9,12,3,6,2,7,16,18,5,0,0,0,1.48,1.41,63045,Referee_7,Cloudy,2,1,Paraguay
+M091,2026-09-09,"BC Place, Vancouver",Vancouver,BC Place,Round of 16,Belgium,Jamaica,10,43,50,50,13,4,3,2,2,6,16,8,2,4,0,0,1.52,1.17,76763,Referee_40,Sunny,2,1,Belgium
+M092,2026-09-10,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Round of 16,Saudi Arabia,Jamaica,39,43,61,39,9,7,3,1,1,3,13,14,2,2,0,0,1.69,0.11,66265,Referee_5,Cloudy,3,0,Saudi Arabia
+M093,2026-09-11,"AT&T Stadium, Dallas",Dallas,AT&T Stadium,Round of 16,Venezuela,Qatar,48,41,35,65,13,14,7,7,9,4,17,18,3,2,0,0,0.11,0.4,61258,Referee_37,Sunny,1,0,Venezuela
+M094,2026-09-12,"MetLife Stadium, New York",New York,MetLife Stadium,Round of 16,England,Belgium,4,10,40,60,14,8,5,2,2,5,19,18,3,4,0,0,0.97,0.32,73577,Referee_8,Rainy,1,0,England
+M095,2026-09-13,"Lumen Field, Seattle",Seattle,Lumen Field,Round of 16,Turkey,Italy,28,8,44,56,8,15,1,9,9,5,6,12,3,4,0,0,1.75,1.43,53843,Referee_9,Rainy,1,2,Italy
+M096,2026-09-14,"MetLife Stadium, New York",New York,MetLife Stadium,Round of 16,Nigeria,Australia,19,21,38,62,9,11,7,4,8,7,10,9,3,4,0,0,2.2,0.81,83781,Referee_23,Sunny,3,2,Nigeria
+M097,2026-09-15,"Hard Rock Stadium, Miami",Miami,Hard Rock Stadium,Quarter Final,Poland,Venezuela,26,48,36,64,9,18,4,6,1,8,7,15,4,3,0,0,1.84,1.98,67373,Referee_19,Sunny,2,1,Poland
+M098,2026-09-16,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Quarter Final,Poland,Brazil,26,2,65,35,9,10,3,4,3,10,19,16,0,3,0,0,1.52,0.37,78592,Referee_26,Sunny,2,1,Poland
+M099,2026-09-17,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Quarter Final,Poland,Senegal,26,20,58,42,14,15,6,6,4,6,10,7,4,5,0,0,1.35,0.14,62896,Referee_23,Cloudy,2,0,Poland
+M100,2026-09-18,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Quarter Final,Japan,Germany,16,7,39,61,13,5,3,3,4,3,9,7,1,5,0,0,1.37,1.78,77976,Referee_29,Rainy,1,2,Germany
+M101,2026-09-19,"Lumen Field, Seattle",Seattle,Lumen Field,Semi Final,Qatar,Australia,41,21,39,61,15,8,6,2,2,8,19,14,2,4,0,0,1.1,1.08,60342,Referee_30,Partly Cloudy,2,1,Qatar
+M102,2026-09-20,"Estadio Azteca, Mexico City",Mexico City,Estadio Azteca,Semi Final,France,England,3,4,46,54,17,7,6,2,2,2,17,19,4,4,0,0,2.41,1.44,42688,Referee_29,Cloudy,3,0,France
+M103,2026-09-21,"SoFi Stadium, Los Angeles",Los Angeles,SoFi Stadium,Third Place,Australia,Saudi Arabia,21,39,50,50,13,14,5,7,1,8,8,15,5,0,0,0,1.04,2.29,56236,Referee_29,Partly Cloudy,3,2,Australia
+M104,2026-09-22,"Mercedes-Benz Stadium, Atlanta",Atlanta,Mercedes-Benz Stadium,Final,Cameroon,Iran,34,40,40,60,10,16,6,5,6,5,17,18,2,5,0,0,1.11,1.1,82421,Referee_22,Sunny,1,0,Cameroon

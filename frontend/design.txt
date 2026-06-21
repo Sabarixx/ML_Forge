@@ -1,0 +1,10 @@
+frontend/
+├── index.html       (login page)
+├── signup.html
+├── dashboard.html
+├── css/
+│   └── style.css
+└── js/
+    ├── api.js
+    ├── auth.js
+    └── dashboard.js

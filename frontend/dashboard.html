@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MLForge — Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="dashboard-body">
+
+    <header class="topbar">
+        <div class="topbar-left">
+            <div class="logo-badge small">⌬</div>
+            <span class="topbar-title">MLForge</span>
+        </div>
+        <div class="topbar-right">
+            <span class="workspace-pill">👤 Workspace</span>
+            <button id="logoutBtn">⏻ Logout</button>
+        </div>
+    </header>
+
+    <main class="dashboard-main">
+        <h1 class="page-title">Dashboard</h1>
+        <p class="page-subtitle">Upload datasets, train models, and compare results — all in one place.</p>
+
+        <div class="grid-2col">
+
+            <section class="card">
+                <div class="card-header">
+                    <span class="icon-badge blue">📤</span>
+                    <h3>Upload Dataset</h3>
+                </div>
+                <p class="card-desc">Upload a CSV file to start training models. Make sure your data is clean and properly formatted.</p>
+
+                <label class="dropzone" id="dropzone">
+                    <span class="dropzone-icon">📄</span>
+                    <span><strong>Click to browse</strong> or drag and drop</span>
+                    <span class="dropzone-hint">CSV files only</span>
+                    <input type="file" id="csvFile" accept=".csv" hidden>
+                </label>
+
+                <button id="uploadBtn">Upload Dataset</button>
+                <p id="uploadMsg" class="status-msg"></p>
+            </section>
+
+            <section class="card">
+                <div class="card-header">
+                    <span class="icon-badge orange">🗄️</span>
+                    <h3>My Datasets</h3>
+                    <span class="count-pill" id="datasetCount">0 total</span>
+                </div>
+                <ul class="dataset-list" id="datasetList">
+                    <li class="empty-state">No datasets yet</li>
+                </ul>
+            </section>
+
+            <section class="card">
+                <div class="card-header">
+                    <span class="icon-badge green">⚙️</span>
+                    <h3>Train Models</h3>
+                </div>
+                <p class="card-desc">Select a dataset and specify the target column to train all four models simultaneously.</p>
+
+                <label>Dataset</label>
+                <select id="datasetIdInput">
+                    <option value="">Select a dataset...</option>
+                </select>
+
+                <label>Target Column</label>
+                <input type="text" id="targetColumnInput" placeholder="e.g. churn, species, price">
+
+                <button id="trainBtn" class="green-btn">Train All Models</button>
+                <p id="trainMsg" class="status-msg"></p>
+            </section>
+
+            <section class="card" id="resultsCard">
+                <div class="card-header">
+                    <span class="icon-badge gray">📊</span>
+                    <h3>Results</h3>
+                </div>
+                <div id="emptyResults" class="empty-results">
+                    <span class="empty-icon">📊</span>
+                    <strong>No results yet</strong>
+                    <p>Train models to see comparison results here</p>
+                </div>
+                <table id="resultsTable" style="display:none;">
+                    <thead>
+                        <tr><th>Model</th><th>Accuracy</th><th>Precision</th><th>Recall</th></tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <canvas id="resultsChart" width="400" height="200" style="display:none;"></canvas>
+            </section>
+
+        </div>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
