@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://ml-forge.onrender.com";
 
 async function apiRequest(endpoint, method = "GET", body = null, useAuth = false) {
     const headers = { "Content-Type": "application/json" };
