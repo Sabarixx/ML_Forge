@@ -99,3 +99,85 @@ User uploads CSV → Backend parses & stores it → User selects target column �
 - Basic familiarity with running a local server
 
 ### 🔧 Backend Setup
+Once running:
+- 🌐 Swagger UI: `http://127.0.0.1:8000/docs`
+
+### 🖥️ Running the Frontend
+Open `frontend/index.html` directly in a browser, or serve it with any static file server.
+
+---
+
+## 🔌 API Reference
+
+### 🔐 Auth
+| Endpoint | Method | Description |
+|---|---|---|
+| `/auth/signup` | POST | Create account, returns JWT token |
+| `/auth/login` | POST | Authenticate, returns JWT token |
+
+### 📊 Datasets
+| Endpoint | Method | Description |
+|---|---|---|
+| `/datasets/upload` | POST | Upload a CSV, returns row/column/missing-value stats |
+| `/datasets/` | GET | List the logged-in user's uploaded datasets |
+
+### ⚙️ Experiments
+| Endpoint | Method | Description |
+|---|---|---|
+| `/experiments/train` | POST | Train all 4 models on a chosen dataset + target column |
+| `/experiments/` | GET | List the logged-in user's past experiments |
+
+---
+
+## 🐛 Key Engineering Challenges Solved
+
+- 🔐 **CORS blocking signup/login** — diagnosed via browser console (`405 Method Not Allowed` on `OPTIONS`), fixed by adding `CORSMiddleware` to the FastAPI app
+- 🧹 **"Could not convert string to float" training error** — fixed by forcing pandas to create true independent copies (`.copy()`) before encoding categorical columns, since in-place edits on dataframe views were silently failing
+- 💥 **Frontend crash on signup page** — `auth.js` was attaching a listener to a `loginForm` element that didn't exist on the signup page; fixed with null-checks before attaching event listeners
+- 🐍 **PowerShell + curl quoting issues** — switched to PowerShell's native `Invoke-RestMethod` for reliable JSON API testing instead of fighting `curl.exe`'s quote escaping
+
+---
+
+## 🧩 Developer Guidance & Improvements
+
+### 📖 Understanding the Project
+- Start with `backend/main.py` to see how everything is wired together
+- Follow `backend/ml/trainer.py` to understand the actual training/evaluation logic
+- Trace a request from `frontend/js/dashboard.js` → `api.js` → backend routes to see the full flow
+
+### 🚀 Improvement Ideas
+- 🎯 Add a prediction endpoint — use a trained model to predict on new user-provided input
+- 🗄️ Switch from SQLite to PostgreSQL for persistent production storage
+- 📈 Add more algorithms and hyperparameter tuning options
+- 🔁 Add experiment history view on the dashboard (not just the latest run)
+
+---
+
+## 🔮 Future Scope
+
+- 🎯 Live prediction interface
+- 📊 Support for regression tasks, not just classification
+- 🗄️ Persistent cloud database
+- 👥 Multi-user collaboration on shared datasets
+- 📱 Responsive mobile-first redesign
+
+---
+
+## 🌍 Real-World Applications
+
+- 🎓 Educational tool for understanding model comparison
+- 🧪 Rapid prototyping for choosing a baseline ML algorithm
+- 💼 Portfolio demonstration of full-stack + ML engineering skills
+
+---
+
+## ✅ Conclusion
+
+MLForge demonstrates a complete, deployed full-stack ML application — from secure authentication and a real data pipeline to multi-model training and live result visualization. Built end-to-end, including learning JavaScript fundamentals from scratch during the project, and deployed live on Render and Netlify.
+
+---
+
+## 👤 Author
+
+**Sabarish** — B.Tech Computer Science, Sathyabama Institute of Science and Technology
+🔗 [GitHub](https://github.com/sabarixx)
